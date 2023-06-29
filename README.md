@@ -1,4 +1,4 @@
-# Check out the (presentation)[https://www.canva.com/design/DAFkEO-zeqE/72iXLvsuCOBlVvB5kPKBmw/watch] 
+# Check out the [presentation](https://www.canva.com/design/DAFkEO-zeqE/72iXLvsuCOBlVvB5kPKBmw/watch) also read the word document for more details
 
 This project was done as an assigment to the Statistics class from the second semeseter of the first year of faculty.
 Special thanks to my wonderful teachers: Davidescu Ana-Maria and Manta Eduard
